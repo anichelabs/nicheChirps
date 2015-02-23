@@ -16,6 +16,17 @@ Hours Spent: 10
   * [x] Optional: User can see a counter with total number of characters left for tweet
 * [x] Advanced: User can refresh tweets timeline by pulling down to refresh (i.e. pull-to-refresh)
 
+Partially Done
+* [] Advanced: Improve the user interface and theme the app to feel "twitter branded"
+
+TODO
+* Advanced: User can open the twitter app offline and see last loaded tweets
+* Tweets are persisted into sqlite and can be displayed from the local DB
+* Advanced: User can tap a tweet to display a "detailed" view of that tweet
+* Advanced: User can select "reply" from detail view to respond to a tweet
+* Bonus: User can see embedded image media within the tweet detail view
+* Bonus: Compose activity is replaced with a modal overlay
+
 VIDEO WALKTHROUGH:
 
 ![Video Walkthrough](LoginScreen.gif)
