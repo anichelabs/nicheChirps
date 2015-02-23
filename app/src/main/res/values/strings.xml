@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Niche Chirps</string>
+    <string name="login_label">Connect To Twitter</string>
+    <string name="title_activity_home_timeline">HomeTimelineActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="action_compose">Compose</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="tweet_maxchars">140</string>
+</resources>
